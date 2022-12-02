@@ -1,0 +1,15 @@
+body{
+    background-color: #e4cbf0;
+    position: relative;
+}
+body::-webkit-scrollbar {
+    scroll-behavior: smooth;
+    width: 0.4em;
+}
+body::-webkit-scrollbar-thumb {
+    background-color: #7105ac;
+    border-radius: 1.5em;
+}
+body::-webkit-scrollbar-thumb:hover {
+    background-color: #80479e;
+}
