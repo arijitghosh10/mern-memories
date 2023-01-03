@@ -1,14 +1,11 @@
 # mern-memories
-Memries ia a full stack MERN Application where users can share posts or memories, update them and also delete them. Users can also like and comment on other's posts.It is designed using react and materialUI and backend is made using Node and express.
-Landing Page of the app.
+Memories ia a full stack MERN Application where users can share posts or memories, update them and also delete them. Users can also like and comment on other's posts.It is designed using react and materialUI and backend is made using Node and express.It also has authentication using JSON web token and authorization using express middleware which allows users to delete or update onlt those posts created by them. For security there is bcrypt to secure user passwords. For faster loading time of images, I have used sharp package to resize images and store in database.
 
-![Screenshot (158)](https://user-images.githubusercontent.com/58074562/210183791-e013d48a-6ed9-45e8-bd92-05b86c6a384f.png)
+![Screenshot (166)](https://user-images.githubusercontent.com/58074562/210429411-9966a244-adc5-4d97-9d06-f83b8ee1bf5e.png)
+                                               Landing/Home page
 
-Authentication/Login Page.
+![Screenshot (159)](https://user-images.githubusercontent.com/58074562/210429578-5e375870-9db5-4445-8abc-58c4f4704eb3.png)
+                                                  Auth Page 
 
-![Screenshot (159)](https://user-images.githubusercontent.com/58074562/210271879-47220a0f-95b0-4e56-ae52-fe68c0d2a455.png)
-
-Post Details Page.
-
-![Screenshot (161)](https://user-images.githubusercontent.com/58074562/210271969-4b536434-3037-444a-8be1-8009fa446c94.png)
-
+![Screenshot (167)](https://user-images.githubusercontent.com/58074562/210429846-35325db4-54af-4c0f-be7c-73f6c12f93d4.png)
+                                        Create/Upload Form once user is signed in.
