@@ -15,3 +15,6 @@ Memories ia a full stack MERN Application where users can share posts or memorie
 
 ![Screenshot (168)](https://user-images.githubusercontent.com/58074562/211155565-03df7ccb-0f56-4d43-9f96-3457e62f987b.png)
                                         Comments feature
+
+![Screenshot (169)](https://user-images.githubusercontent.com/58074562/211155641-1b68391c-3e79-4a08-9404-67a0723647ae.png)
+                                          Profile page of users
