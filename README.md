@@ -11,4 +11,7 @@ Memories ia a full stack MERN Application where users can share posts or memorie
                                         Create/Upload Form once user is signed in.
 
 ![Screenshot (162)](https://user-images.githubusercontent.com/58074562/210638771-a765a69a-6ad5-4e82-ad48-766e686e6622.png)
-                                   Recommended Posts
+                                        Recommended Posts
+
+![Screenshot (168)](https://user-images.githubusercontent.com/58074562/211155565-03df7ccb-0f56-4d43-9f96-3457e62f987b.png)
+                                        Comments feature
